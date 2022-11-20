@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    
+}
+
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+.id {
+    align-items: center;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
